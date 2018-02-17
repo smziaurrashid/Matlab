@@ -1,5 +1,5 @@
 # Finding Roots of Non-Linear Function
-###There are several method to finding roots of a non-linear function using Matlab. Here, following methods have been used:
+### There are several method to finding roots of a non-linear function using Matlab. Here, following methods have been used:
 
 + Bisection Method
 + False Position Method
