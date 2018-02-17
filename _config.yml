@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-title: "Matlab Programming by Ziaur Rashid"
 show_downloads: true 
 plugins:
   - jekyll-sitemap
