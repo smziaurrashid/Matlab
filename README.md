@@ -3,16 +3,3 @@ MATLAB is a high-performance language for technical computing. It integrates com
 
 # Repository 
 This repository has been generated to provide various types of basic matlab programming solution which may help engineering student to speed up their skills during their numerical techniques or signal processing studies.
-
-# To-Do List
-- Data Plot & Graphs
-  + 2D Plot
-  + 3D plot
-  + Animation
-- Signal Processing
-  + Sound Wave Analysis
-  + Convolution
-  + Fourier Transforme
-  + Blur, Noise, Edge Detection & Reduction
-  + Low-Pass Filter
-  
